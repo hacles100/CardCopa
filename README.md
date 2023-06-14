@@ -1,3 +1,4 @@
 # CardCopa
 
-![Captura de Ecrã (6)](https://github.com/hacles100/CardCopa/assets/71661551/024f39d0-8e1a-4aa1-9077-1dd67dba50f6)
+
+![Captura de Ecrã (6)](https://github.com/hacles100/CardCopa/assets/71661551/3cf3eced-efd0-4455-9283-8e4e6bf011bf)
